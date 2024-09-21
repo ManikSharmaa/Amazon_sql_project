@@ -9,6 +9,8 @@
 
 I have worked on analyzing a dataset of over 20,000 sales records from an Amazon-like e-commerce platform. This project involves extensive querying of customer behavior, product performance, and sales trends using PostgreSQL. Through this project, I have tackled various SQL problems, including revenue analysis, customer segmentation, and inventory management.
 
+In this project, I have used **PostgreSQL database management system.**
+
 The project also focuses on **data cleaning, handling null values, and solving real-world business problems** using structured queries.
 
 An ERD diagram is included to visually represent the database schema and relationships between tables.
@@ -20,6 +22,9 @@ An ERD diagram is included to visually represent the database schema and relatio
 ## **Database Setup & Design**
 
 ![ERD](https://github.com/user-attachments/assets/2cf45ddf-53a6-4687-aaa8-787990042e50)
+
+![image](https://github.com/user-attachments/assets/9edcf01c-0bb5-4d7a-85ed-6c7fbf801b69) 
+
 
 ### **Schema Structure**
 
